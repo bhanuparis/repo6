@@ -9,3 +9,5 @@ systemctl status jenkins
 
 
 /var/lib/jenkins/secrets/initialAdminPassword
+
+7b4c11716dcd440cb8896caf63abe2b2
